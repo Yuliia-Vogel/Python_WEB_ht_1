@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Anna Herman",
+        "phones": [
+            "1231231232"
+        ],
+        "email": "anna@hnail.mom",
+        "birthday": "2020-03-10"
+    },
+    {
+        "name": "Inna Herashchenko",
+        "phones": [
+            "1231231233"
+        ],
+        "email": "None",
+        "birthday": "1985-03-03"
+    },
+    {
+        "name": "Oksana Bayul",
+        "phones": [
+            "0979979797"
+        ],
+        "email": "oksi_bayul@gmail.gm",
+        "birthday": "1975-03-15"
+    }
+]

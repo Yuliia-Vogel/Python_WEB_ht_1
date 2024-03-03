@@ -1,0 +1,29 @@
+[
+    {
+        "title": "My_note_1",
+        "text": "This is text of My Note 1",
+        "tags": [
+            "note_1"
+        ],
+        "creation_date": "2024-03-03 17:20:55.643644"
+    },
+    {
+        "title": "Cat_Richi",
+        "text": "My cat's name is Richi. Full name is Richard.",
+        "tags": [
+            "richi",
+            " ricard",
+            " cat"
+        ],
+        "creation_date": "2024-03-03 17:21:50.085396"
+    },
+    {
+        "title": "\u0414\u0443\u0440\u043d\u0438\u0439_\u0432\u0456\u0440\u0448\u0438\u043a",
+        "text": "\u0423 \u043f\u043e\u043f\u0430 \u0431\u0443\u043b\u0430 \u0441\u043e\u0431\u0430\u043a\u0430, \u0432\u0456\u043d \u0457\u0457 \u043b\u044e\u0431\u0438\u0432. \u0412\u043e\u043d\u0430 \u0432\u043a\u0440\u0430\u043b\u0430 \u0448\u043c\u0430\u0442\u043e\u043a \u0441\u0430\u043b\u0430 - \u0432\u0456\u043d \u0457\u0457 \u0443\u0431\u0438\u0432.",
+        "tags": [
+            "\u0443_\u043f\u043e\u043f\u0430",
+            " \u0441\u043e\u0431\u0430\u043a\u0430"
+        ],
+        "creation_date": "2024-03-03 17:23:34.248334"
+    }
+]
